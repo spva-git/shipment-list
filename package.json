@@ -10,7 +10,7 @@
     "@types/react-dom": "16.8.4",
     "@types/react-router-dom": "^4.3.2",
     "@types/react-table": "^6.8.5",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "match-sorter": "^4.0.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
